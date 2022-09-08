@@ -28,3 +28,15 @@ From KCI to the museum is only around 23 minutes. Below are the directions from 
 * Kansas City Zoo
 
 ![About Me](AboutMe.md)
+
+-------
+
+# Cities to Visit
+Below is a table with 4 cities that I would recommend to visit, locations that are worth visiting, and how long I would recommend staying at the attraction.
+
+| City | Location | Time Spent There |
+| --- | --- | --- |
+| Chicago, IL | Skydeck Chicago | 2 Hours |
+| Beaver Creek, CO | Beaver Creek Resort | 3-7 Days |
+| Branson, MO | Silver Dollar City | 5 Hours |
+| Dallas, TX | Reunion Tower Geo-Deck | 2 Hours |
