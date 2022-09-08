@@ -17,3 +17,12 @@ From KCI to the museum is only around 23 minutes. Below are the directions from 
 5. Then you will exit onto Broadway Blvd heading south
 6. Then take a left onto 29th street
 7. Next, head straight onto Liberty Memorial Mall and Park.
+
+## Attractions nearby
+* The Neslon Atkins Museum of Art
+* Science City
+* LEGOLAND Discovery Center Kansas City
+* Union Station
+* The College Basketball Experience
+* Worlds of Fun
+* Kansas City Zoo
