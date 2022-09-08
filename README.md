@@ -46,3 +46,21 @@ Below is a table with 4 cities that I would recommend to visit, locations that a
 > Nobody ever had a rainbow, until he had the rain
 
 > Fortune favors the bold
+
+---
+
+# Post to an iframe
+> ![How do you post to an iframe?](https://stackoverflow.com/questions/168455/how-do-you-post-to-an-iframe)
+```
+<form action="iframe.php" target="my-iframe" method="post">
+			
+  <label for="text">Some text:</label>
+  <input type="text" name="text" id="text">
+			
+  <input type="submit" value="post">
+			
+</form>
+		
+<iframe name="my-iframe" src="iframe.php"></iframe>
+```
+![Source: CSS-Tricks](https://css-tricks.com/snippets/html/post-data-to-an-iframe/)
