@@ -26,3 +26,5 @@ From KCI to the museum is only around 23 minutes. Below are the directions from 
 * The College Basketball Experience
 * Worlds of Fun
 * Kansas City Zoo
+
+![About Me](AboutMe.md)
